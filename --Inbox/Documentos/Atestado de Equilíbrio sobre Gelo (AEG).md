@@ -11,3 +11,9 @@
     Sem esta prova, é proibido compartilhar boias com os outros (T9). O gelo exige respeito — e equilíbrio.
 
 Depende de [[Licença para Entrada em Áreas de Acúmulo de Gelo (LAAG)]]
+
+| ![[Pasted image 20250620171309.png]] | [[Licença para Entrada em Áreas de Acúmulo de Gelo (LAAG)]] |
+| ------------------------------------ | ----------------------------------------------------------- |
+
+
+

@@ -9,3 +9,8 @@
     
 - **Requisitos:**  
     Só após provar sua valentia contra o gélido, o cidadão pode se aproximar dos domínios gelados do Balconato — onde até as boias rangem de frio.
+
+
+| ![[Pasted image 20250620171931.png]] |
+| ------------------------------------ |
+

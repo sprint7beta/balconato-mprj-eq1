@@ -6,3 +6,5 @@ Moradores usam as cavernas para guardar alimentos e ferramentas durante o invern
 
 ## Problemas  
 O frio dentro das cavernas pode ser intenso e o ambiente úmido favorece problemas respiratórios. O acesso pode ser difícil em tempestades.
+
+![[Pasted image 20250620164122.png]]

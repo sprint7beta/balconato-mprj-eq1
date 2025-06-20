@@ -6,3 +6,6 @@ Os moradores são comerciantes, que mantêm o funcionamento dos serviços mesmo 
 
 ## Problemas  
 O frio dificulta a circulação e o armazenamento de mercadorias, além de provocar aumento em doenças comuns da estação.
+
+![[Pasted image 20250620170540.png]]
+

@@ -6,3 +6,8 @@ Moradores mantêm pequenas hortas em estufas simples e dependem da criação de 
 
 ## Problemas  
 O vento constante desgasta construções e dificulta o cultivo. Muitas casas precisam ser reforçadas para suportar tempestades de neve.
+
+![[Pasted image 20250620161510.png]]
+
+
+

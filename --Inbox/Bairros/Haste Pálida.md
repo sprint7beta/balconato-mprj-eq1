@@ -6,3 +6,5 @@ A comunidade trabalha com vigilância e comunicação entre regiões próximas. 
 
 ## Problemas  
 A torre demanda manutenção constante devido ao gelo e às tempestades, e o frio provoca desconforto constante entre os moradores.
+
+![[Pasted image 20250620164411.png]]
