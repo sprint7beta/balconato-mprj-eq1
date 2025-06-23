@@ -8,3 +8,11 @@ Moradores usam as cavernas para guardar alimentos e ferramentas durante o invern
 O frio dentro das cavernas pode ser intenso e o ambiente úmido favorece problemas respiratórios. O acesso pode ser difícil em tempestades.
 
 ![[Pasted image 20250620164122.png]]
+
+Ligações:
+
+- G — H : 9 (barco)
+- G — I : 5 (trenó)
+- G — J : 6 (barco)
+- G — F : 5 (trenó)
+- G — C: 6 (barco)

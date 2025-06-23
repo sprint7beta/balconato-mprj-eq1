@@ -9,3 +9,7 @@ O frio dificulta a circulação e o armazenamento de mercadorias, além de provo
 
 ![[Pasted image 20250620170540.png]]
 
+Ligações:
+
+I — F : 5 (trenó)
+I — G : 5 (trenó)

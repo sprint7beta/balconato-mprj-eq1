@@ -8,3 +8,6 @@ Os moradores são hábeis em escalada e caçada local. Costumam se reunir para t
 O gelo sobre os penhascos causa frequentes quedas de pedras e torna o caminho perigoso. O frio intenso pode provocar doenças respiratórias.
 
 ![[Pasted image 20250620160822.png]]
+
+Ligações: - B — D : 5 (trenó)
+- B — H : 15 (barco)

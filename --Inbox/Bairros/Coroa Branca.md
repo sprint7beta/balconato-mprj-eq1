@@ -9,5 +9,8 @@ O vento constante desgasta construções e dificulta o cultivo. Muitas casas pre
 
 ![[Pasted image 20250620161510.png]]
 
-
-
+Ligações: 
+ C — A : 6 (barco)
+- C — D : 5 (trenó)
+- C — F : 5 (trenó)
+- C — G : 6 (barco)

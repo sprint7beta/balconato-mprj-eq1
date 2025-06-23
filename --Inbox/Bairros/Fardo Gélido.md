@@ -8,3 +8,9 @@ Moradores são trabalhadores braçais, que enfrentam jornadas longas para garant
 O frio constante torna difícil o transporte de cargas. A falta de isolamento adequado nas casas provoca problemas de saúde, como resfriados.
 
 ![[Pasted image 20250620163832.png]]
+
+Ligações:
+
+- F — G : 5 (trenó)
+- F — I : 5 (trenó)
+- F — C : 5 (trenó)

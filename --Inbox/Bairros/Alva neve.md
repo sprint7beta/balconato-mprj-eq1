@@ -8,3 +8,7 @@ Moradores trabalham principalmente com agricultura de inverno resistente e cria�
 A neve constante dificulta o transporte e o acesso, especialmente para idosos e crianças. A neve acumulada às vezes causa desabamentos de telhados.
 
 ![[Pasted image 20250620160243.png]]
+
+Ligações: 
+- A — B : 9 (barco)
+- A — C : 6 (barco)

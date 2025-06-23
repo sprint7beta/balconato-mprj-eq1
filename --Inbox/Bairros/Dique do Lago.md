@@ -8,3 +8,8 @@ Mergulhar no lago durante o verão é o maior desejo dos habitantes. Durante o i
 O gelo no lago é instável em certos pontos, representando risco para todos. O degelo pode causar enchentes rápidas.
 
 ![[Pasted image 20250620161756.png]]
+
+Ligações:
+D — E : 5 (trenó)
+D — B : 5 (trenó)
+D — C : 5 (trenó)
